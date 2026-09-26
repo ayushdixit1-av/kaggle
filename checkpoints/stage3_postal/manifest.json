@@ -1,0 +1,8 @@
+{
+  "index": "country_postal",
+  "candidate_count": 10320219,
+  "unique_keys": 74457,
+  "postings": 754876,
+  "dtype": "uint32",
+  "format": "buffer_plus_offsets"
+}

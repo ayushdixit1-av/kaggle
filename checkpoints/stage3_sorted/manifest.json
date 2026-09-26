@@ -1,0 +1,8 @@
+{
+  "index": "token_sorted_normalized_name",
+  "candidate_count": 10320219,
+  "unique_keys": 7080239,
+  "postings": 10320219,
+  "dtype": "uint32",
+  "format": "buffer_plus_offsets"
+}

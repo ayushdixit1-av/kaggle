@@ -1,0 +1,13 @@
+{
+  "n_candidates": 10320219,
+  "n_s2": 5034616,
+  "n_s3": 5285603,
+  "s2_start": 0,
+  "s2_end": 5034616,
+  "s3_start": 5034616,
+  "s3_end": 10320219,
+  "gt_edges": 7638365,
+  "unmapped_gt_edges": 0,
+  "format": "parquet",
+  "candidate_index_dtype": "uint32"
+}

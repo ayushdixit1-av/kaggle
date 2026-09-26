@@ -1,0 +1,14 @@
+{
+  "stage": "stage3_postal_house",
+  "status": "verified",
+  "timestamp_utc": "2026-09-26T05:41:14Z",
+  "metadata": {
+    "index": "country_postal_house",
+    "candidate_count": 10320219,
+    "unique_keys": 5056,
+    "postings": 15668,
+    "dtype": "uint32",
+    "format": "buffer_plus_offsets"
+  },
+  "verified": true
+}

@@ -1,0 +1,12 @@
+{
+  "stage": "stage3_exact",
+  "status": "complete",
+  "timestamp_utc": "2026-09-26T05:28:14Z",
+  "candidate_count": 10320219,
+  "unique_keys": 7439309,
+  "postings": 10320219,
+  "buffer_file": "buf_exact.npy",
+  "offset_file": "off_exact.pkl",
+  "buffer_dtype": "uint32",
+  "verified": true
+}
