@@ -1,0 +1,14 @@
+{
+  "stage": "stage4_address_sample_a",
+  "status": "verified",
+  "sample_queries": 20000,
+  "target_e1a_keys": 19988,
+  "target_e1c_keys": 1329,
+  "e1a_keys": 4843,
+  "e1a_postings": 7029,
+  "e1c_keys": 1008,
+  "e1c_postings": 3111,
+  "e1c_posting_cap": 1000,
+  "n_s2": 5034616,
+  "n_s3": 5285603
+}
