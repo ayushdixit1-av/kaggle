@@ -1,0 +1,13 @@
+runtime_snapshot/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pkl
+*.pickle
+*.joblib
+*.npy
+*.npz
+*.parquet
+*.feather
+*.bin
+*.model
