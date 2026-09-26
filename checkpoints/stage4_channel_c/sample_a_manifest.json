@@ -1,0 +1,15 @@
+{
+  "stage": "stage4_sample_a",
+  "status": "verified",
+  "queries": 20000,
+  "gt_edges": 69394,
+  "seed": 42,
+  "sampling": "largest_remainder_country_card_bin",
+  "cardinality_counts": {
+    "0_singleton": 1117,
+    "1_single": 1080,
+    "2_to_4_plural": 12599,
+    "5_plus_high": 5204
+  },
+  "timestamp_utc": "2026-09-26T05:58:22Z"
+}
