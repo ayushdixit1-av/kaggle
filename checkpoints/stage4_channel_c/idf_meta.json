@@ -1,0 +1,8 @@
+{
+  "candidate_count": 10320219,
+  "vocabulary_keys": 1480576,
+  "stop_key_count": 2961,
+  "usable_idf_keys": 1477615,
+  "max_df": 5000,
+  "stop_fraction": 0.002
+}
