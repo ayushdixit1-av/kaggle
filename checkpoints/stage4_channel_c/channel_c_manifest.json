@@ -1,0 +1,23 @@
+{
+  "stage": "stage4d_channel_c",
+  "status": "verified",
+  "n_s2": 5034616,
+  "n_s3": 5285603,
+  "n_candidates": 10320219,
+  "n_query_token_keys": 9335,
+  "n_retained_keys": 9335,
+  "max_postings": 1500,
+  "total_postings": 1455765,
+  "runtime_seconds": 85.01,
+  "files": {
+    "buf_word.npy": {
+      "size_bytes": 5823188
+    },
+    "off_word.pkl": {
+      "size_bytes": 210109
+    },
+    "candidate_lengths.npy": {
+      "size_bytes": 20640566
+    }
+  }
+}
