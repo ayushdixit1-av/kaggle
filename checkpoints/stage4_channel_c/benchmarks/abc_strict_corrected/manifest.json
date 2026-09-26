@@ -1,0 +1,14 @@
+{
+  "benchmark": "abc_strict_corrected",
+  "sample_queries": 20000,
+  "n_s2": 5034616,
+  "n_s3": 5285603,
+  "avg_doc_len": 3.974049772678148,
+  "raw_micro_recall": 0.563132259273136,
+  "raw_macro_recall": 0.5616563708670365,
+  "raw_any_match": 0.8067044431499232,
+  "raw_complete_recall": 0.32484245088174546,
+  "raw_singleton_contamination": 0.7905102954341987,
+  "raw_singleton_mean_candidates": 119.61593554162937,
+  "runtime_seconds": 9.487241506576538
+}
